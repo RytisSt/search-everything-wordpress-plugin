@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Dan Cameron of Sprout Venture
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Search everything\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/search-everything\n"
+"POT-Creation-Date: 2009-06-11 23:25+0000\n"
+"PO-Revision-Date: 2013-04-14 18:34+0200\n"
+"Last-Translator: Rytis <rytis.st@gmail.com>\n"
+"Language-Team: Rytis <rytis.st@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: lt\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: views/options.php:54 views/options.php:61
+msgid ""
+"Your default search settings have been <strong>updated</strong> by Search "
+"Everything. </p><p> What are you waiting for? Go check out the new search "
+"results!"
+msgstr ""
+"„Search Everything“ <strong>atnaujino</strong> numatytuosius paieškos "
+"nustatymus.</p><p> Ko dar lauki? Pažiūrėk naujus paieškos rezultatus!"
+
+#: views/options.php:71
+msgid "Search Everything Version:"
+msgstr "„Search Everything“ versija:"
+
+#: views/options.php:76 views/options.php:278
+msgid "Update Options"
+msgstr "Atnaujinti pasirinkimus"
+
+#: views/options.php:84
+msgid "Basic Configuration"
+msgstr "Pagrindinė konfigūracija"
+
+#: views/options.php:90
+msgid "Search every page"
+msgstr "Ieškoti kiekviename puslapyje"
+
+#: views/options.php:90
+msgid "(non-password protected)"
+msgstr "(neapsaugotą slaptažodžiu)"
+
+#: views/options.php:94 views/options.php:105 views/options.php:118
+#: views/options.php:132 views/options.php:143 views/options.php:153
+#: views/options.php:163 views/options.php:173 views/options.php:186
+#: views/options.php:197 views/options.php:207 views/options.php:217
+#: views/options.php:227
+msgid "Yes"
+msgstr "Taip"
+
+#: views/options.php:101
+msgid "Search approved pages only"
+msgstr "Ieškoti tik patvirtintuose puslapiuose"
+
+#: views/options.php:114
+msgid "Search every tag name"
+msgstr "Ieškoti kiekviename žymės pavadinime"
+
+#: views/options.php:128
+msgid "Search every category name and description"
+msgstr "Ieškoti kiekviename kategorijos pavadinime ir aprašyme"
+
+#: views/options.php:139
+msgid "Search every comment"
+msgstr "Ieškoti kiekviename komentare"
+
+#: views/options.php:149
+msgid "Search comment authors"
+msgstr "Ieškoti komentarų autoriuose"
+
+#: views/options.php:159
+msgid "Search approved comments only"
+msgstr "Ieškoti tik patvirtintuose komentaruose"
+
+#: views/options.php:169
+msgid "Search every excerpt"
+msgstr "Ieškoti kiekvienoje ištraukoje"
+
+#: views/options.php:182
+msgid "Search every draft"
+msgstr "Ieškoti kiekviename ruošinyje"
+
+#: views/options.php:193
+msgid "Search every attachment"
+msgstr "Ieškoti kiekviename priede"
+
+#: views/options.php:193
+msgid "(post type = attachment)"
+msgstr "(įrašo tipas = priedas)"
+
+#: views/options.php:203
+msgid "Search every custom field"
+msgstr "Ieškoti kiekviename pasirinktame lauke"
+
+#: views/options.php:203
+msgid "(metadata)"
+msgstr "(meta duomenys)"
+
+#: views/options.php:213
+msgid "Search every author"
+msgstr "Ieškoti kiekviename autoriuje"
+
+#: views/options.php:223
+msgid "Highlight Search Terms"
+msgstr "Pažymėti paieškos terminus"
+
+#: views/options.php:233
+msgid "Highlight Background Color"
+msgstr "Pažymėjimo fono spalva"
+
+#: views/options.php:236
+msgid "Examples:<br/>'#FFF984' or 'red'"
+msgstr "Pvz.:<br/>„#FFF984“ arba „raudona“"
+
+#: views/options.php:246
+msgid "Advanced Configuration - Exclusion"
+msgstr "Išplėstinė konfigūracija - netaikymas"
+
+#: views/options.php:252
+msgid "Exclude some post or page IDs"
+msgstr "Netaikyti keletui įrašų ar puslapių ID"
+
+#: views/options.php:255
+msgid "Comma separated Post IDs (example: 1, 5, 9)"
+msgstr "Kableliais atskirti įrašo ID (pvz.: 1, 5, 9)"
+
+#: views/options.php:259
+msgid "Exclude Categories"
+msgstr "Netaikyti kategorijoms"
+
+#: views/options.php:262
+msgid "Comma separated category IDs (example: 1, 4)"
+msgstr "Kableliais atskirti kategorijos ID (pvz.: 1, 4)"
+
+#: views/options.php:266
+msgid "Full Highlight Style"
+msgstr "Pilnas pažymėjimo stilius"
+
+#: views/options.php:268
+msgid ""
+"Important: 'Highlight Background Color' must be blank to use this advanced "
+"styling."
+msgstr ""
+"Svarbu. „Pažymėjimo fono spalva“ turi būti tuščias jei norite naudoti šiuo "
+"išplėstiniu stiliu."
+
+#: views/options.php:270
+msgid ""
+"Example:<br/>background-color: #FFF984; font-weight: bold; color: #000; "
+"padding: 0 1px;"
+msgstr ""
+"Pvz.:<br/>background-color: #FFF984; font-weight: bold; color: #000; "
+"padding: 0 1px;"
+
+#: views/options.php:283
+msgid "Developed by Dan Cameron of"
+msgstr "Sukūrė Dan Cameron –"
+
+#: views/options.php:283
+msgid "Sprout Venture"
+msgstr "„Sprout Venture“"
+
+#: views/options.php:283
+msgid "We Provide custom WordPress Plugins and Themes and a whole lot more."
+msgstr ""
+"Mes teikiame pasirintinius „WordPress“ įskiepius ir temas, ir dar daugiau."
+
+#: views/options.php:287
+msgid "Reset Button"
+msgstr "Atstatymo mygtukas"
+
+#: views/options.php:295
+msgid "Find a bug?"
+msgstr "Radote klaidą?"
+
+#: views/options.php:295
+msgid "Post it as a new issue"
+msgstr "Paskelbkite kaip naują problemą"
+
+#: views/options.php:302
+msgid "Test Search Form"
+msgstr "Testavimo paieškos forma"
+
+#: views/options.php:309
+msgid "Use this search form to run a live search test."
+msgstr "Naudokite šią paiškos formą paleisti tiesioginės paieškos testą."
+
+#: views/options.php:315
+msgid "Run Test Search"
+msgstr "Paleisti testavimo paiešką"
+
+#: views/options.php:326
+msgid "News"
+msgstr "Naujienos"
+
+#: views/options.php:327
+msgid "Development Support"
+msgstr "Vystytojų palaikymas"
+
+#: views/options.php:328
+msgid "Localization Support"
+msgstr "Lokalizavimo palaikymas"
+
+#: views/options.php:334
+msgid "LOCALIZATION SUPPORT:"
+msgstr "LOKALIZAVIMO PALAIKYMAS:"
+
+#: views/options.php:334
+msgid ""
+"Version 6 was a major update and a few areas need new localization support. "
+"If you can help send me your translations by posting them as a new issue, "
+msgstr ""
+"6 versija buvo svarbus atnaujinimas ir keletas sričių, reikalaujančių naujo "
+"lokalizavimo palaikymo. Jei galite padėti, atsiųskite savo vertimus, "
+"paskelbiant naują problemą "
+
+#: views/options.php:334
+msgid "here"
+msgstr "čia"
+
+#: views/options.php:335
+msgid "Thank You!"
+msgstr "Ačiū!"
+
+#: views/options.php:335
+msgid ""
+"The development of Search Everything since Version one has primarily come "
+"from the WordPress community, I&#8217;m grateful for their dedicated and "
+"continued support."
+msgstr ""
+"„Search Everything“ vystymas nuo versijos, kuri pirmiausiai atkeliavo iš "
+"„WordPress“ bendruomenės, aš dėkingas už jų atsidavimą ir tolesnes paramas."
+
+#: views/options.php:345
+msgid "and many more..."
+msgstr "ir dar daugiau..."
+
+#: views/options.php:345
+msgid "how about you?"
+msgstr "o kaip tu?"
+
+#. Plugin Name of an extension
+msgid "Search Everything"
+msgstr "„Search Everything“"
+
+#. Plugin URI of an extension
+msgid "https://core.sproutventure.com/projects/show/search-everything"
+msgstr "https://core.sproutventure.com/projects/show/search-everything"
+
+#. Description of an extension
+msgid ""
+"Adds search functionality without modifying any template pages: Activate, "
+"Configure and Search. Options Include: search highlight, search pages, "
+"excerpts, attachments, drafts, comments, tags and custom fields (metadata). "
+"Also offers the ability to exclude specific pages and posts. Does not search "
+"password-protected content."
+msgstr ""
+"Prideda paieškos funkciją nekeičiant jokių puslapių šablonų: Įjungti, "
+"Konfigūruoti ir Ieškoti. Parinktys apima: paieškos paryškinimą, paiešką "
+"puslapiuose, ištraukose, prieduose, ruošiniuose., komentaruose, žymėse ir "
+"pasirinktiniuose laukuose (meta duomenyse). Taip pat siūlo galimybę "
+"netaikyti konkretiems puslapias ir įrašams. Neieško slaptažodžiu apsaugoto "
+"turinio."
+
+#. Author of an extension
+msgid "Dan Cameron of Sprout Venture"
+msgstr "Dan Cameron – „Sprout Venture“"
+
+#. Author URI of an extension
+msgid "http://sproutventure.com/"
+msgstr "http://sproutventure.com/"
